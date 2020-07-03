@@ -1,0 +1,3 @@
+[submodule "src/main/java/com/studio/common"]
+	path = src/main/java/com/studio/common
+	url = https://github.com/hq18782051402/common.git
